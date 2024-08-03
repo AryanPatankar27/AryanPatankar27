@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Patankar</h1>
-<h3 align="center">A passionate FullStack developer from India.Always enthusiastic about tech and development in the field of AI.</h3>
+<h3 align="center">A passionate FullStack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanpatankar27&label=Profile%20views&color=0e75b6&style=flat" alt="aryanpatankar27" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ML and Devops**
 
-- 🤝 I’m looking for help with **Tensorflow to master Deep Learning**
+- 🤝 I’m looking for help with **Tensorflow**
 
 - 💬 Ask me about **React,Python,Node.js**
 
