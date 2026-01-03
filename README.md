@@ -4,7 +4,7 @@
 
 I am a final-year B.Tech Information Technology student at **VESIT Mumbai** with a **CGPA of 9.03**. My work focuses on building production-grade systems using modern web technologies and applied AI.
 
-I have previously interned at  ** IIT Bombay**, where I worked on **RAG-based Cyber Threat Intelligence systems**, including document ingestion pipelines, vector databases, semantic search, and LLM-driven analysis.
+I have previously interned at  **IIT Bombay**, where I worked on **RAG-based Cyber Threat Intelligence systems**, including document ingestion pipelines, vector databases, semantic search, and LLM-driven analysis.
 
 - **Location:** Mumbai, India  
 - **Portfolio:** https://aryanpatankar.vercel.app  
