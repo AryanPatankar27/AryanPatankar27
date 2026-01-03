@@ -1,39 +1,81 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Aryan Patankar
-=======================================================================================================================================
+# Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> My name is Aryan Patankar
 
-Full-Stack Developer | AI Enthusiast | Final Year B.Tech IT Student
--------------------------------------------------------------------
+### Full-Stack Developer | AI Enthusiast | FInal Year IT Undergrad
 
-I'm a final-year B.Tech IT student at VESIT Mumbai, a problem solver passionate about AI and full-stack development. I've interned at IIT Bombay, built impactful platforms like PrepWise and Bhoomi Mitra, and won national hackathons at IISc Bengaluru and BIT Mesra.
+[cite_start]I'm a final-year B.Tech IT student at **VESIT Mumbai** (9.03 CGPA)[cite: 4, 7]. I specialize in building impactful platforms using AI and modern web stacks. [cite_start]Currently, I am a **Project Intern at IIT Bombay**, developing RAG-based solutions for Cyber Threat Intelligence[cite: 8, 9, 11].
 
-* 🌍  I'm based in Mumbai,India
-* 🖥️  See my portfolio at [Portfolio](http://https://aryanpatankar.vercel.app/)
-* ✉️  You can contact me at [aryanpatankar27@gmail.com](mailto:aryanpatankar27@gmail.com)
-* 👥  I'm looking to collaborate on Full-stack development projects, open-source contributions, and building production-ready applications with modern tech stacks.
+* [cite_start]🌍 Based in **Mumbai, India** [cite: 10]
+* 🖥️ Portfolio: [aryanpatankar.vercel.app](https://aryanpatankar.vercel.app/)
+* [cite_start]✉️ Contact: [aryanpatankar27@gmail.com](mailto:aryanpatankar27@gmail.com) 
+* [cite_start]🚀 2nd Runner-Up at **OpenHack 2025 (IISc Bengaluru)** & **IEEE MegaProject 7.0** 
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" alt="Webpack" title="Webpack" width="36" height="36" /></a><a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="36" height="36" />
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/AryanPatankar27" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/aryan-patankar-b33692248/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.github.com/AryanPatankar27" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/AryanPatankar27?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-### Badges
+### 📊 GitHub Insights
 
-<b>My GitHub Stats</b>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AryanPatankar27&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Aryan's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanPatankar27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
-<a href="http://www.github.com/AryanPatankar27"><img src="https://github-readme-stats.vercel.app/api?username=AryanPatankar27&show_icons=true&hide=issues,&count_private=true&title_color=64748b&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AryanPatankar27's GitHub stats" /></a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanPatankar27&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+</p>
 
-<a href="http://www.github.com/AryanPatankar27"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanPatankar27&stroke=ffffff&background=1c1917&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
 
-<a href="https://github.com/AryanPatankar27" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanPatankar27&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### 🏆 Featured Projects
 
-<b>Top Repositories</b>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://github.com/AryanPatankar27/Bhoomi-Mitra">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanPatankar27&repo=Bhoomi-Mitra&theme=tokyonight&hide_border=true" width="400px" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/AryanPatankar27/NagrikSathi">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanPatankar27&repo=NagrikSathi&theme=tokyonight&hide_border=true" width="400px" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/AryanPatankar27/prep-wise">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanPatankar27&repo=prep-wise&theme=tokyonight&hide_border=true" width="400px" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/AryanPatankar27/SatoriAI">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanPatankar27&repo=SatoriAI&theme=tokyonight&hide_border=true" width="400px" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<div width="100%" align="center"><a href="https://github.com/AryanPatankar27/Bhoomi-Mitra" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanPatankar27&repo=Bhoomi-Mitra&title_color=64748b&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AryanPatankar27/ NagrikSathi" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanPatankar27&repo= NagrikSathi&title_color=64748b&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+---
 
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/AryanPatankar27/ prep-wise" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanPatankar27&repo= prep-wise&title_color=64748b&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AryanPatankar27/ SatoriAI" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanPatankar27&repo= SatoriAI&title_color=64748b&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+### 📫 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/aryan-patankar-b33692248/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/aryanpatankar27"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+</p>
