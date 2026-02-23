@@ -6,8 +6,7 @@ I am a final-year B.Tech Information Technology student at **VESIT Mumbai**. My 
 
 
 
-- **Location:** Mumbai, India  
-- **Portfolio:** https://aryanpatankar.vercel.app  
+- **Location:** Mumbai, India   
 - **Email:** aryanpatankar27@gmail.com  
 - **Achievements:**  
   - 2nd Runner-Up — OpenHack 2025 (IISc Bengaluru)  
